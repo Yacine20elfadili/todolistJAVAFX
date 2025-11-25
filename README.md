@@ -16,7 +16,7 @@ A simple JavaFX-based to-do list application that allows users to add and remove
 
 ## Test Results
 
-![JUnit Test Success](screenshots/todolistjavafxTEST.png)
+![JUnit Test Success](screenshots/todolistjavafxTestJUNIT.png)
 
 *All unit tests passing successfully.*
 
